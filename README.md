@@ -59,7 +59,7 @@ cd to the directory in which you want the Django directory to be created
 # Launching with honcho
 
 Make sure you have lessc compiler installed.
-Read more here: https://github.com/e-Luminate/eluminate_web/script/Readme.md
+Read more here: https://github.com/e-Luminate/eluminate_web/blob/master/scripts/README.md
 
 	honcho -f Procfile.dev start
 
